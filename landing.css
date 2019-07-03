@@ -95,7 +95,7 @@ table {
  .screen {
   width: 711px;
   height: 400px;
-  background: url(src/assets/img-landing/screen.png)
+  background: url(app/src/assets/img-landing/screen.png)
  }
 
  .piskel-clone {
